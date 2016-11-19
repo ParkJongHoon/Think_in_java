@@ -1,4 +1,3 @@
-Extending an interface with inheritance pdf_page: 253
-Name collisions when combining Interfaces pdf_page: 255
 
-07. Interface Complete pdf_page 300 page
+pdf_page 300 page
+book page 394 page
