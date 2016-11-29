@@ -1,5 +1,6 @@
 package org.uengine.Type_Information;
 
-public class Rat extends Pet  {
-
+public class Rat extends Rodent  {
+	public Rat(String name){super(name);}
+	public Rat(){super();}
 }
