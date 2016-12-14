@@ -1,3 +1,6 @@
 
-pdf_page 326 page
+pdf_page 329 page
 book page 418 page
+
+org/uengine/Chap09/Holding_Your_Objects/The_Adapter_Method_idiom
+패키지 주석 설명 달지 않음
