@@ -8,7 +8,16 @@ import java.util.List;
 import java.util.Random;
 
 import org.uengine.Chap09.Holding_Your_Objects.Foreach_and_iterators.IterableClass;
-
+/**
+ * 
+ * 작성자: 박종훈
+ * 작성일: 2016-12-22
+ * 내용: Iterable Interface override하여 사용하기
+ * 여러개의 Iterable Interface를 구현하여 method로 사용함
+ * 1) reversed(), 2) randomized()
+ * 
+ * @param <T>
+ */
 public class MultiIterableClass extends IterableClass {
 	public Iterable<String> reversed(){
 		return new Iterable<String>() {

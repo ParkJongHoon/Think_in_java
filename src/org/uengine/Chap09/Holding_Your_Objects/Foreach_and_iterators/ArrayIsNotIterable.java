@@ -9,7 +9,7 @@ import java.util.Arrays;
  * 설명: Iterable 타입 foreach문 사용
  * Iterabel 안에 들어가는 타입은 따로 정해져 있지 않다.
  * 다만 값을 삽입할때 인자값으로는 Arrays.asList() 메소드로 사용하며
- * 삽입하고 자하는 값의 배열은 Arrays.asList() 괄호안에 넣는다.
+ * 삽입하고자하는 값의 배열은 Arrays.asList() 괄호안에 넣는다.
  * 
  */
 public class ArrayIsNotIterable {
