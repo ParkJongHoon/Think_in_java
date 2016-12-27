@@ -1,6 +1,5 @@
 
-pdf_page 329 page
+pdf_page 340 page
 book page 418 page
 
-org/uengine/Chap09/Holding_Your_Objects/The_Adapter_Method_idiom
-패키지 주석 설명 달지 않음
+org/uengine/Chap10/Error_Handling_with_Exceptions/Creating_your_own_exceptions
